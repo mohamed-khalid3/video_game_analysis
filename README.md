@@ -2,14 +2,25 @@
 
 ---
 
+
 ## 📖 Introduction
 Welcome to **LevelUpAnalytics**, an advanced data analytics project diving deep into the global video game industry. This project leverages a comprehensive dataset of video game sales to uncover trends, patterns, and actionable insights for developers, publishers, and stakeholders.  
 
+
 By combining robust data cleaning, exploratory data analysis (EDA), and stunning visualizations, **LevelUpAnalytics** showcases the power of data-driven decision-making in understanding market dynamics, identifying top-performing games, and exploring player engagement trends.  
+
+
+
+
+
 
 The project is built with **Python** and **Jupyter Notebook**, utilizing libraries like `pandas`, `matplotlib`, `seaborn`, and `plotly` to create interactive and visually appealing outputs. It serves as a key component of my data science portfolio at [mohamed-khalid3.github.io/portfolio](https://mohamed-khalid3.github.io/portfolio).
 
+
+
+
 ---
+
 
 ## 🎯 Objectives
 The primary goals of **LevelUpAnalytics** are to:  
@@ -75,10 +86,8 @@ LevelUpAnalytics/
 └── 📁 assets/ # Supporting files
 └── images/ # Images used in README or portfolio
 └── .gitkeep # Keeps the folder tracked in Git
----
----
 
-
+```
 
 
 ## 🛠 Methodology
