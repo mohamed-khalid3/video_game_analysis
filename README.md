@@ -51,15 +51,19 @@ The dataset contains **16,598 entries** with the following columns:
 
 ---
 
-## 🏗 Project Structure
+## 📁 Project Structure
+
+```
+
 LevelUpAnalytics/
-├── data/
-│ └── vgsales.csv
-├── scripts/
-│ └── analyze_vgsales.py
-├── notebooks/
-│ └── video.game.analysis.ipynb
-├── plots/
+│
+├── 📋 vgsales.csv # Dataset
+├── 📝 README.md # Project documentation
+├── 🗂 scripts/
+│ └── analyze_vgsales.py # Main Python script for analysis
+├── 📊 notebooks/
+│ └── video.game.analysis.ipynb # Jupyter Notebook with analysis
+├── 📁 plots/ # Generated visualization images
 │ ├── correlation_heatmap.png
 │ ├── sales_by_genre.png
 │ ├── sales_by_genre_orange.png
@@ -68,8 +72,12 @@ LevelUpAnalytics/
 │ ├── top10_games.png
 │ ├── top10_games_colorful.png
 │ └── top10_genres_count_colorful.png
-├── README.md
-└── requirements.txt
+└── 📁 assets/ # Supporting files
+└── images/ # Images used in README or portfolio
+└── .gitkeep # Keeps the folder tracked in Git
+---
+---
+
 
 
 
